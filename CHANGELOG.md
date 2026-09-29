@@ -1,5 +1,29 @@
 # Changelog
 
+## [0.15.0](https://github.com/OpenCloudGaming/OpenNOW-Mac/compare/v0.14.0...v0.15.0) (2026-09-29)
+
+
+### Features
+
+* add dock streaming icon ([19d387a](https://github.com/OpenCloudGaming/OpenNOW-Mac/commit/19d387ae6eaeff091cae90ac199f91aeed792246))
+* add maintenance catalog status ([1de2eb2](https://github.com/OpenCloudGaming/OpenNOW-Mac/commit/1de2eb2b8251be6e8186813ca44881a7c643b2d2))
+* add maintenance title watch ([#59](https://github.com/OpenCloudGaming/OpenNOW-Mac/issues/59)) ([1752ea3](https://github.com/OpenCloudGaming/OpenNOW-Mac/commit/1752ea3e1ccfabeebfd21686da43e7a13016c6d3))
+* drag-out, share, copy and quick look for the capture libraries ([#56](https://github.com/OpenCloudGaming/OpenNOW-Mac/issues/56)) ([33e69d7](https://github.com/OpenCloudGaming/OpenNOW-Mac/commit/33e69d7c18ea7d46b58439523f5f8baf861b2615))
+* **experimental:** add stream clipboard ([#55](https://github.com/OpenCloudGaming/OpenNOW-Mac/issues/55)) ([93b1c2e](https://github.com/OpenCloudGaming/OpenNOW-Mac/commit/93b1c2e88eea85f783ce237fb64666335fc68ed4))
+* group settings capture into categories ([ab56c84](https://github.com/OpenCloudGaming/OpenNOW-Mac/commit/ab56c843285d6ef92d1805f8bbb50df19636cab3))
+
+
+### Bug Fixes
+
+* add game mode ([#57](https://github.com/OpenCloudGaming/OpenNOW-Mac/issues/57)) ([0c09f8b](https://github.com/OpenCloudGaming/OpenNOW-Mac/commit/0c09f8ba202cebb507337da8690965cc6305b03f))
+* catalog view tile for maintenance and offline games ([5396ea1](https://github.com/OpenCloudGaming/OpenNOW-Mac/commit/5396ea1f7f326c3e58583b45822c295b01e139e2))
+* manual update check ([#60](https://github.com/OpenCloudGaming/OpenNOW-Mac/issues/60)) ([3e13751](https://github.com/OpenCloudGaming/OpenNOW-Mac/commit/3e13751d85d9808315972725b73f2bfde8475c2e))
+* route idle IME control keys to the seat and draw the composing bar ([#61](https://github.com/OpenCloudGaming/OpenNOW-Mac/issues/61)) ([2eac7f8](https://github.com/OpenCloudGaming/OpenNOW-Mac/commit/2eac7f8761fc42ad2647bf8bfac0bf0f8d2d6218))
+* splash screen overlap ([3319175](https://github.com/OpenCloudGaming/OpenNOW-Mac/commit/33191754bd802f187cd57de2af19e8bc6def7342))
+* stop the capture rebuild deadlocking the audio queue and blinding the NVST heartbeat ([849beff](https://github.com/OpenCloudGaming/OpenNOW-Mac/commit/849beff59d1f179b259382c66b44c650859d93e6))
+* take catalog browse titles and artwork from the app-metadata endpoint ([619abf5](https://github.com/OpenCloudGaming/OpenNOW-Mac/commit/619abf5d831ed382efc070bc519f8c12dda714d4))
+* unhealthy session proxy not self healing ([14669a1](https://github.com/OpenCloudGaming/OpenNOW-Mac/commit/14669a17ff4ce6b5232ad0ff3a9131bb3e642dba))
+
 ## [0.14.0](https://github.com/OpenCloudGaming/OpenNOW-Mac/compare/v0.13.0...v0.14.0) (2026-09-27)
 
 
